@@ -1,0 +1,11 @@
+
+#ifndef PLATFORMERSFML_ABILITIES_H
+#define PLATFORMERSFML_ABILITIES_H
+
+enum class Abilities
+{
+  BULLET = 0,
+  INVIS = 1
+};
+
+#endif // PLATFORMERSFML_ABILITIES_H

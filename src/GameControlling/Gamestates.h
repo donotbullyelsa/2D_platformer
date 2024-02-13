@@ -1,0 +1,14 @@
+
+#ifndef PLATFORMERSFML_GAMESTATES_H
+#define PLATFORMERSFML_GAMESTATES_H
+
+enum class Gamestates
+{
+  IN_MENU = 0,
+  IN_GAME = 1,
+  WON = 2,
+  LOST = 3,
+  HS = 4
+};
+
+#endif // PLATFORMERSFML_GAMESTATES_H
